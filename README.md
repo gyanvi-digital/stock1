@@ -1,2 +1,1 @@
-# stock1
-nnnnnnnnnnnnnnn
+
